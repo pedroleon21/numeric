@@ -1,5 +1,5 @@
-#ifndef BINARYLIB_H
-#define BINARYLIB_H
+#ifndef NUMERIC_H
+#define NUMERIC_H
 
 #ifndef STDIO_H
 #define STDIO_H
